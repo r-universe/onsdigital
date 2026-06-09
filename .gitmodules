@@ -5,3 +5,6 @@
 [submodule "cellkeyperturbation"]
 	path = cellkeyperturbation
 	url = https://github.com/onsdigital/cell-key-perturbation-r
+[submodule "data.checker"]
+	path = data.checker
+	url = https://github.com/onsdigital/data.checker
